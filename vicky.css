@@ -1,0 +1,85 @@
+h1{
+	color: blue;
+	font size: 100px;
+	text-align: justify;
+	font-style: oblique;
+	text-underline-position: auto;
+
+}
+body{
+	background-color: ghostwhite;
+	background-size: contain;
+
+
+}
+
+.f1{
+	color: black;
+	padding: 20px;
+	border: 12px;
+	border-radius: 15px;
+
+}
+.f1 label{
+	display: block;
+	padding-bottom: 10px;
+
+
+}
+.f1 input[type="text"]{
+	padding: 10px;
+	width: 50%;
+
+
+}
+.f1 input[type="number"]{
+	padding: 10px;
+	width: 50%;
+}
+.f1 input[type="password"]{
+	padding: 10px;
+	width: 50%;
+
+}	
+.f1 textarea{
+	padding: 10px;
+	width: 50%;
+}
+.f1 select{
+	padding: 5px;
+	width: 10%;
+}
+.button{
+	background-color:seagreen ;
+	color: red;
+	padding: 5px;
+	border: none;
+}
+.button:hover{
+	background-color: skyblue;
+	color: white;
+}
+.f11{
+	padding-bottom: 17px;
+}
+.f12{
+	padding-bottom: 17px;
+}
+.f13{
+	padding-bottom: 17px;
+}
+.f14{
+	padding-bottom: 17px;
+}
+.f15{
+	padding-bottom: 17px;
+}
+.f16{
+	padding-bottom: 17px;
+}
+.f17{
+	padding-bottom: 17px;
+}
+.f18{
+	padding-bottom: 17px;
+}
